@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"民家2","order":1,"parentId":0,"scrollX":534,"scrollY":320},
+{"id":2,"expanded":true,"name":"市区","order":2,"parentId":1,"scrollX":1324,"scrollY":624},
+{"id":3,"expanded":true,"name":"学校","order":3,"parentId":2,"scrollX":1434,"scrollY":358},
+{"id":4,"expanded":true,"name":"学校 走廊","order":4,"parentId":3,"scrollX":816,"scrollY":520},
+{"id":5,"expanded":false,"name":"学校 教室","order":5,"parentId":4,"scrollX":534,"scrollY":464},
+{"id":6,"expanded":false,"name":"宾馆2F","order":10,"parentId":3,"scrollX":906,"scrollY":690},
+{"id":7,"expanded":true,"name":"市区","order":11,"parentId":2,"scrollX":816,"scrollY":624},
+{"id":8,"expanded":true,"name":"学校 走廊2","order":6,"parentId":3,"scrollX":1424,"scrollY":520},
+{"id":9,"expanded":false,"name":"民家2","order":12,"parentId":7,"scrollX":534,"scrollY":512},
+{"id":10,"expanded":false,"name":"学校（返回）","order":9,"parentId":3,"scrollX":1136,"scrollY":690},
+{"id":11,"expanded":false,"name":"校长室","order":13,"parentId":0,"scrollX":534,"scrollY":296},
+{"id":12,"expanded":true,"name":"学校 走廊3","order":7,"parentId":8,"scrollX":1136,"scrollY":520},
+{"id":13,"expanded":true,"name":"回学校2","order":8,"parentId":12,"scrollX":1136,"scrollY":520}
+]
